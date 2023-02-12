@@ -20,6 +20,3 @@ end
 dog = Dog.new("Umbwa Kali", "German Shepherd")
 puts dog.name
 puts dog.breed
-
-dog.name = "Ultimate Retriever"
-puts dog.name 
